@@ -1,0 +1,1 @@
+# vuereact-combined-render-test
